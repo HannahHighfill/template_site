@@ -1,1 +1,1 @@
-# template_site
+# This should be the templating version of the ssg
